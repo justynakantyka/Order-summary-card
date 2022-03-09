@@ -8,8 +8,29 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+- See Order Summary Card with description, plan, button to payment and button to cancel
+- See hover states for interactive elements like payment button and cancel button
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+### Links
+
+- Solution URL: 
+
+## My process
+
+### Built with
+
+- Bootstrap Cards
+- Bootstrap Grid
+
