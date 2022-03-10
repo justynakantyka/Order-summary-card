@@ -16,7 +16,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### The challenge
 
 Users should be able to:
-- See Order Summary Card with description, plan, button to payment and button to cancel
+- See Order Summary Card with description, plan, payment button and cancel button
 - See hover states for interactive elements like payment button and cancel button
 
 ### Screenshot
@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://justynakantyka.github.io/order-summary-card/ 
 
 ## My process
 
