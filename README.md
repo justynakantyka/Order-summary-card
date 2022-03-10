@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://justynakantyka.github.io/order-summary-card/ 
 
 ## My process
 
