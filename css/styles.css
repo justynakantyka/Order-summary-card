@@ -12,10 +12,15 @@ h1 {
   color: #000;
 }
 
-h6 {
+h2 {
   font-weight: 700;
   font-size: 1rem;
   color: #000;
+}
+
+p {
+  margin: 0;
+  font-size: 1rem;
 }
 
 .summary-card {
