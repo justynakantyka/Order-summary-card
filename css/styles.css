@@ -8,7 +8,7 @@ body {
 
 h1 {
   font-weight: 900;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   color: #000;
 }
 
@@ -19,7 +19,7 @@ h6 {
 
 .summary-card {
   margin: 5% auto;
-  width: 375px;
+  max-width: 23.5rem;
   border-radius: 30px;
   background-color: #fff;
 }
