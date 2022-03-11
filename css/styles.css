@@ -56,16 +56,26 @@ h6 {
   font-size: 0.8rem;
 }
 
+.card-link:hover {
+  color: hsl(224, 23%, 55%);
+  text-decoration: none;
+}
+
 .btn-blue {
   background-color: hsl(245, 75%, 52%);
   color: hsl(225, 100%, 94%);
   text-decoration: none;
   width: 90%;
-  border-radius: 12px;
+  border-radius: 9px;
   margin: 6% 0;
   font-weight: 700;
   font-size: 0.8rem;
   box-shadow: 0 17px 17px hsl(225, 100%, 91%);
+}
+
+.btn-blue:hover {
+  background-color: hsl(224, 23%, 55%);
+  color: hsl(225, 100%, 94%);
 }
 
 .btn-white {
