@@ -23,15 +23,12 @@ p {
   font-size: 1rem;
 }
 
-.summary-card {
+.card {
+  border-radius: 30px;
   margin: 5% auto;
   max-width: 23.5rem;
   border-radius: 30px;
   background-color: #fff;
-}
-
-.card {
-  border-radius: 30px;
 }
 
 .svg-hero {
