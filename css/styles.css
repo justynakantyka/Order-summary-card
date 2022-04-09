@@ -68,14 +68,15 @@ p {
 
 .btn-blue {
   background-color: hsl(245, 75%, 52%);
+  border-radius: 9px;
+  box-shadow: 0 17px 17px hsl(225, 100%, 91%);
   color: hsl(225, 100%, 94%);
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin: 6% 0;
+  padding: 3%;
   text-decoration: none;
   width: 90%;
-  border-radius: 9px;
-  margin: 6% 0;
-  font-weight: 700;
-  font-size: 0.8rem;
-  box-shadow: 0 17px 17px hsl(225, 100%, 91%);
 }
 
 .btn-blue:hover {
