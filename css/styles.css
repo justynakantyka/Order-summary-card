@@ -1,8 +1,11 @@
 body {
+  background-image: url('.././images/pattern-background-desktop.svg' );
+  background-position: 0% -80%;
+  background-repeat: no-repeat;
   font-size: 16px;
   font-family: 'Red Hat Display', sans-serif;
   text-align: center;
-  background-color: hsl(225, 100%, 98%);
+  background-color: hsl(225, 100%, 94%);
   color: hsl(224, 23%, 55%);
 }
 
@@ -24,11 +27,11 @@ p {
 }
 
 .card {
-  border-radius: 30px;
-  margin: 5% auto;
-  max-width: 23.5rem;
-  border-radius: 30px;
   background-color: #fff;
+  border-radius: 30px;
+  box-shadow: 0 17px 17px hsl(225, 100%, 91%);
+  margin: 0 auto;
+  max-width: 23.5rem;
 }
 
 .svg-hero {
@@ -84,4 +87,8 @@ p {
   font-weight: 700;
   font-size: 0.8rem;
   color: hsl(224, 23%, 55%);
+}
+
+.attribution {
+  margin-top: 2rem;
 }
