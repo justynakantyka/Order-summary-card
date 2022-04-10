@@ -1,12 +1,24 @@
+:root {
+  /* Primary Colors */
+  --pale-blue: hsl(225, 100%, 94%);
+  --bright-blue: hsl(245, 75%, 52%);
+
+  /* Neutral Colors */
+  --very-pale-blue: hsl(225, 100%, 98%);
+  --desaturated-blue: hsl(224, 23%, 55%);
+  --dark-blue: hsl(223, 47%, 23%);
+  --shadow-blue: hsl(225, 100%, 91%);
+}
+
 body {
   background-image: url('.././images/pattern-background-desktop.svg' );
-  background-position: 0% 0%;
+  background-position: 0 0;
   background-repeat: no-repeat;
   font-size: 16px;
   font-family: 'Red Hat Display', sans-serif;
   text-align: center;
-  background-color: hsl(225, 100%, 94%);
-  color: hsl(224, 23%, 55%);
+  background-color: var(--pale-blue);
+  color: var(--desaturated-blue);
 }
 
 h1 {
@@ -29,7 +41,7 @@ p {
 .card {
   background-color: #fff;
   border-radius: 30px;
-  box-shadow: 0 17px 17px hsl(225, 100%, 91%);
+  box-shadow: 0 17px 17px var(--shadow-blue);
   margin: 10% auto;
   max-width: 23.5rem;
 }
@@ -47,7 +59,7 @@ p {
 }
 
 .container {
-  background-color: hsl(225, 100%, 98%);
+  background-color: var(--very-pale-blue);
   width: 90%;
   margin-top: 6%;
   padding: 5% 5%;
@@ -62,15 +74,15 @@ p {
 }
 
 .card-link:hover {
-  color: hsl(224, 23%, 55%);
+  color: var(--desaturated-blue);
   text-decoration: none;
 }
 
 .btn-blue {
-  background-color: hsl(245, 75%, 52%);
+  background-color: var(--bright-blue);
   border-radius: 9px;
-  box-shadow: 0 17px 17px hsl(225, 100%, 91%);
-  color: hsl(225, 100%, 94%);
+  box-shadow: 0 17px 17px var(--shadow-blue);
+  color: var(--pale-blue);
   font-size: 0.8rem;
   font-weight: 700;
   margin: 6% 0;
@@ -80,14 +92,14 @@ p {
 }
 
 .btn-blue:hover {
-  background-color: hsl(224, 23%, 55%);
-  color: hsl(225, 100%, 94%);
+  background-color: var(--desaturated-blue);
+  color: var(--pale-blue);
 }
 
 .btn-white {
   font-weight: 700;
   font-size: 0.8rem;
-  color: hsl(224, 23%, 55%);
+  color: var(--desaturated-blue);
 }
 
 .attribution {
