@@ -70,6 +70,7 @@ p {
 }
 
 .card-link {
+  color: var(--bright-blue);
   font-size: 0.8rem;
 }
 
