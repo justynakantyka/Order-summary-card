@@ -21,23 +21,6 @@ body {
   color: var(--desaturated-blue);
 }
 
-h1 {
-  font-weight: 900;
-  font-size: 1.4rem;
-  color: #000;
-}
-
-h2 {
-  font-weight: 700;
-  font-size: 1rem;
-  color: #000;
-}
-
-p {
-  margin: 0;
-  font-size: 1rem;
-}
-
 .card {
   background-color: #fff;
   border-radius: 30px;
@@ -52,6 +35,23 @@ p {
 
 .card-body {
   margin: 5% 0;
+}
+
+.card-body h1 {
+  font-weight: 900;
+  font-size: 1.4rem;
+  color: #000;
+}
+
+.card-body h2 {
+  font-weight: 700;
+  font-size: 1rem;
+  color: #000;
+}
+
+.card-body p {
+  margin: 0;
+  font-size: 1rem;
 }
 
 .advertisement {
@@ -97,10 +97,22 @@ p {
   color: var(--pale-blue);
 }
 
+.btn-blue:focus {
+  background-image: none;
+  outline: 0;
+  box-shadow: 0 17px 17px var(--shadow-blue);
+}
+
 .btn-white {
   font-weight: 700;
   font-size: 0.8rem;
   color: var(--desaturated-blue);
+}
+
+.btn-white:focus {
+  background-image: none;
+  outline: 0;
+  box-shadow: none;
 }
 
 .attribution {
