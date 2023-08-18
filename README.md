@@ -1,6 +1,6 @@
 # Order summary card solution - Frontend Mentor Challenge
 
-Live Site URL:: https://justynakantyka.github.io/order-summary-card/ \
+Live Site URL: https://justynakantyka.github.io/order-summary-card/ \
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
 - [Overview](#overview)
