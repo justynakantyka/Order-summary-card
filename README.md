@@ -1,7 +1,7 @@
 # Order summary card solution
 
-Solution for the Order Summary Card challenge from Frontend Mentor. The challenge involved creating a responsive order summary card component based on the provided design.
-Live Site URL: https://justynakantyka.github.io/order-summary-card/ \
+Solution for the Order Summary Card challenge from Frontend Mentor. The challenge involved creating a responsive order summary card component based on the provided design.\
+<b>Live Site URL:</b> https://justynakantyka.github.io/order-summary-card/ \
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
 - [Overview](#overview)
